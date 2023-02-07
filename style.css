@@ -1,5 +1,5 @@
 h1 {
-    background-color: green;
+    background-color: rgb(120, 152, 210);
     color: white;
     padding: 5px;
     margin: 0;
@@ -20,7 +20,7 @@ h1 {
   }
   button {
     color: white;
-    background: green;
+    background: rgb(120, 152, 210);;
     border: none;
     border-radius: 3px;
     padding: 8px 16px 8px 16px;
